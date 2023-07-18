@@ -9,9 +9,9 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jetsdevs&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jetsdev&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=jetsdevs&theme=gotham&background=0d1117&border=00bfbf&stroke=00bfbf&ring=00bfbf&fire=00bfbf&currStreakNum=00bfbf&currStreakLabel=00bfbf&sideNums=00bfbf&sideLabels=00bfbf" alt="GitHub Streak Stats" /></a>
+</div>
 <!--
 reconfigurar quando tiver instragram referente
 <div align="center">  
