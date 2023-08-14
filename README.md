@@ -47,13 +47,12 @@ reconfigurar quando tiver instragram referente
 ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![DJANGO](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 
-<!--
+
 <div align="center">
-  <h2><p align="centre"><b>Contador de visitantes</b></h2></p>  
-<h2>
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=jestsdevs&label=Visitantes" /></h2></p> 
-<br>
-</div>-->
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{jetsdevs}/count.svg" /></p> 
+<br></div>
+</div>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
